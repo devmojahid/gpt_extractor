@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Gpt Extractor",
+    "description": "This extension extracts the GPT Output from the current page",
+    "version": "1.0",
+    "action": {
+        "default_popup": "gpt_extractor.html",
+        "default_icon": "gpt_extractor.png"
+    }
+}
